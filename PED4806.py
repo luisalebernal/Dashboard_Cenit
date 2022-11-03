@@ -56,7 +56,7 @@ app.layout = dbc.Container([
             dbc.Accordion([
                 dbc.AccordionItem([
                     html.H5([
-                                'El siguiente tablero interactivo se presenta el estado de producción de los 50 módulos los cuales son fabricados para el cliente Cenit. '])
+                                'El siguiente tablero interactivo presenta el estado de producción de los 50 módulos los cuales son fabricados para el cliente Cenit. '])
 
                 ], title="Introducción"),
             ], start_collapsed=True, style={'textAlign': 'left', 'color': '#082255', 'font-family': "Franklin Gothic"}),
